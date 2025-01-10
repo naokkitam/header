@@ -237,7 +237,7 @@ left: 7px;
 }
 
 .c-icon._language {
-  background-image: url(../../ja./img/common/sprite.webp);
+  background-image: url(./img/sprite.webp);
   background-position: -81px -33px;
   width: 14px;
   height: 14px;
@@ -245,7 +245,7 @@ left: 7px;
 }
 
 .c-icon._language-w {
-  background-image: url(../../ja./img/common/sprite.webp);
+  background-image: url(./img/sprite.webp);
   background-position: -81px -19px;
   width: 14px;
   height: 14px;
@@ -253,7 +253,7 @@ left: 7px;
 }
 
 .c-icon.arrow-bottom {
-  background-image: url(../../ja./img/common/sprite.webp);
+  background-image: url(./img/sprite.webp);
   background-position: -34px -71px;
   width: 10px;
   height: 7px;
@@ -261,7 +261,7 @@ left: 7px;
 }
 
 .c-icon.arrow-bottom-w {
-  background-image: url(../../ja./img/common/sprite.webp);
+  background-image: url(./img/sprite.webp);
   background-position: -24px -71px;
   width: 10px;
   height: 7px;
